@@ -5,6 +5,7 @@
 #
 # Note:
 # Script must be run as a root
+# Script can automatically reboot computer
 #
 # Script doesn't edit or add files
 
